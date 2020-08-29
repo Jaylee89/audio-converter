@@ -9,13 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/start.py",
-            "console": "integratedTerminal",
-            "args": [
-                "--entity",
-                "AU",
-                "--env",
-                "uat"
-            ],
+            "console": "integratedTerminal"
         }
     ]
 }
