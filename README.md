@@ -26,7 +26,7 @@ ffmpeg -i input/filename.arm output/filename-output.mp3
 
 ## [`brew`, `ffmpeg` install, `raw.githubusercontent.com port 443`](https://github.com/Jaylee89/installation-issues/blob/master/python.project.md)
 
-## [ffmpeg doc](http://ffmpeg.org/ffmpeg.html)
+## [ffmpeg doc](http://ffmpeg.org/ffmpeg.html) or https://ld246.com/article/1595480295489
 
 or https://www.cnblogs.com/chen1987lei/archive/2010/12/03/1895242.html
 
