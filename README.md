@@ -24,28 +24,7 @@ python3 demo.py
 ffmpeg -i input/filename.arm output/filename-output.mp3
 ```
 
-## How to install `ffmpeg` library on Mac, refer to [here](https://www.jianshu.com/p/73441acf7815)
-
-```bash
-# Or, follow it to install
-# install brew
-./brew-intall.rb
-# verify brew installation
-brew --help
-# install ffmpeg
-brew install ffmpeg
-# verify ffmpeg installation
-ffmpeg --help
-```
-
-## Failed to connect to raw.githubusercontent.com port 443: Connection refused error:
-
-Add the IP to hosts file, refer to [here](https://blog.csdn.net/ccgshigao/article/details/108169891)
-
-If operation failed to the hosts file, please follow below:
-
-1. open /etc/hosts via external text software
-1. add 151.101.76.133 raw.githubusercontent.com last line
+## [`brew`, `ffmpeg` install, `raw.githubusercontent.com port 443`](https://github.com/Jaylee89/installation-issues/blob/master/python.project.md)
 
 ## [ffmpeg doc](http://ffmpeg.org/ffmpeg.html)
 
